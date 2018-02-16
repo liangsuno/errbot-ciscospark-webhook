@@ -1,6 +1,6 @@
 [Core]
-Name = MyCiscoSparkWebhook
-Module = myciscosparkwebhook
+Name = CiscoSparkWebhook
+Module = ciscosparkwebhook
 
 [Documentation]
 Description = Webhook for Cisco Spark Backend
