@@ -1,0 +1,9 @@
+[Core]
+Name = MyCiscoSparkWebhook
+Module = myciscosparkwebhook
+
+[Documentation]
+Description = Webhook for Cisco Spark Backend
+
+[Python]
+Version = 3
